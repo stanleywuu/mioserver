@@ -1,0 +1,12 @@
+[package]
+name = "mioserver"
+version = "0.1.0"
+authors = ["Stanleywuu <stan.wu@mail.utoronto.ca>"]
+
+[dependencies]
+mio="*"
+env_logger="*"
+bytes="*"
+time="*"
+rand="0.3"
+rusqlite="*"
